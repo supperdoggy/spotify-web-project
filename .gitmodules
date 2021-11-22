@@ -4,3 +4,9 @@
 [submodule "spotify-front"]
 	path = spotify-front
 	url = https://github.com/supperdoggy/spotify-front
+[submodule "spotify-db"]
+	path = spotify-db
+	url = https://github.com/supperdoggy/spotify-db
+[submodule "spotify-globalStructs"]
+	path = spotify-globalStructs
+	url = https://github.com/supperdoggy/spotify-globalStructs
