@@ -1,0 +1,3 @@
+[submodule "spotify-back"]
+	path = spotify-back
+	url = https://github.com/supperdoggy/spotify-back
