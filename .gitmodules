@@ -1,3 +1,6 @@
 [submodule "spotify-back"]
 	path = spotify-back
 	url = https://github.com/supperdoggy/spotify-back
+[submodule "spotify-front"]
+	path = spotify-front
+	url = https://github.com/supperdoggy/spotify-front
