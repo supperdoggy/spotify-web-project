@@ -10,3 +10,6 @@
 [submodule "spotify-globalStructs"]
 	path = spotify-globalStructs
 	url = https://github.com/supperdoggy/spotify-globalStructs
+[submodule "spotify-auth"]
+	path = spotify-auth
+	url = ./spotify-auth
